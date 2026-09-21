@@ -1,0 +1,2 @@
+# AI-PRACTICAL-6
+ai-6
